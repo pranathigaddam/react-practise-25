@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/pranathigaddam/Documents/learning%20/projects/react-practise-25/src/app/otherHooks/actionStateHook/page.tsx"],"sourcesContent":["import React, { useActionState } from \"react\";\n\nconst page = () => {\n  const [actionState, action] = useActionState(validateAction, null);\n\n  return (\n    <div>\n      <form>\n        <input></input>\n        <button></button>\n      </form>\n    </div>\n  );\n};\n\nexport default page;\n"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,OAAO;IACX,MAAM,CAAC,aAAa,OAAO,GAAG,CAAA,GAAA,qMAAA,CAAA,iBAAc,AAAD,EAAE,gBAAgB;IAE7D,qBACE,8OAAC;kBACC,cAAA,8OAAC;;8BACC,8OAAC;;;;;8BACD,8OAAC;;;;;;;;;;;;;;;;AAIT;uCAEe","debugId":null}}]
+}

@@ -1,0 +1,16 @@
+{
+  "node": {
+    "600f351bdb2ea423798fc5dcb46f2dee92bd7a8f0c": {
+      "workers": {
+        "app/otherHooks/actionStateHook/page": {
+          "moduleId": "[project]/.next-internal/server/app/otherHooks/actionStateHook/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/otherHooks/actionStateHook/action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/otherHooks/actionStateHook/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

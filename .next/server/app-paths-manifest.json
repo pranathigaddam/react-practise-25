@@ -2,5 +2,6 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/otherHooks/actionStateHook/page": "app/otherHooks/actionStateHook/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/performance/callback/page": "app/performance/callback/page.js"
 }
